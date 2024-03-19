@@ -27,7 +27,7 @@
     "humps": "^2.0.1",
     "jquery-param": "^1.0.0",
     "truffle-contract": "^3.0.4",
-    "web3": "^0.20.4"
+    "web3": "^4.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
